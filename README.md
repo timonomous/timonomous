@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @timopelster
+- 👋 Hi, I’m @timonomous
 - 👀 I’m interested in Python, Data Science, and HR Solutions
 - 🌱 I’m focusing on Python, Agentic Workflows, and PWA tooling
 
