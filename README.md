@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timopelster
-- 👀 I’m interested in Python, Data Science, and Agentic Workflows
-- 🌱 I’m focusing on Python, Ollama/LLMs, Streamlit
+- 👀 I’m interested in Python, Data Science, and HR Solutions
+- 🌱 I’m focusing on Python, Agentic Workflows, and PWA tooling
 
 <!---
 timopelster/timopelster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
